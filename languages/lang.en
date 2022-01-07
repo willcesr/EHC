@@ -1,0 +1,46 @@
+<?php
+/* LANGUAGE : ENGLISH */
+
+$lang = array();
+
+// Footer
+$lang['COMPANY'] = 'Company';
+$lang['ABOUT_US'] = 'About us';
+$lang['BLOG'] = 'Blog';
+$lang['CONTACT_US'] = 'Contact us';
+
+$lang['COMMUNITY'] = 'Community';
+$lang['MEMBERS'] = 'Members';
+$lang['GROUPS'] = 'Groups';
+$lang['LEGAL'] = 'Legal Issues';
+
+$lang['AGREEMENT'] = 'User Agreement';
+$lang['PRIVACY'] = 'Privacy Policy';
+$lang['COOKIE'] = 'Cookie Policy';
+
+// Login
+$lang['EMAIL'] = "Email Address";
+$lang['PASSWORD'] = "Password";
+$lang['LOGIN'] = "Sign In";
+$lang['NOT_MEMBER'] = "Not a member?";
+$lang['JOIN'] = "Join now!";
+$lang['FORGOT_PWD'] = "(Forget password?)";
+$lang['INPUT_EMAIL'] = "Enter Email";
+$lang['INPUT_PWD'] = "Enter Password";
+
+// Language
+$lang['ENGLISH'] = "English";
+$lang['FRENCH'] = "French";
+
+// Sign Up
+$lang['SIGN_UP'] = "Sign Up";
+$lang['FIRST_NAME'] = "Fist name";
+$lang['LAST_NAME'] = "Last name";
+$lang['CONFIRM_PWD'] = "Confirm password";
+$lang['SUBMIT'] = "Submit";
+
+// Posts
+$lang['AGREE'] = "Agree";
+$lang['ADD_COMMENT'] = "Add a comment";
+$lang['POST'] = "Post";
+?>
