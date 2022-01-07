@@ -1,0 +1,46 @@
+<?php
+/* LANGUAGE : FRENCH */
+
+$lang = array();
+
+// Footer
+$lang['COMPANY'] = 'Companie';
+$lang['ABOUT_US'] = 'À propos';
+$lang['BLOG'] = 'Blogue';
+$lang['CONTACT_US'] = 'Contactez-nous';
+
+$lang['COMMUNITY'] = 'Communauté';
+$lang['MEMBERS'] = 'Membres';
+$lang['GROUPS'] = 'Groupes';
+$lang['LEGAL'] = 'Legal Issues';
+
+$lang['AGREEMENT'] = 'Conditions d’utilisation';
+$lang['PRIVACY'] = 'Politique de confidentialité';
+$lang['COOKIE'] = 'Politique relative aux cookies';
+
+// Login
+$lang['EMAIL'] = "Adresse Courriel";
+$lang['PASSWORD'] = "Mot de passe";
+$lang['LOGIN'] = "S'identifier";
+$lang['NOT_MEMBER'] = "Pas encore membre?";
+$lang['JOIN'] = "S'inscrire maintenant!";
+$lang['FORGOT_PWD'] = "(Oublié mot de passe?)"; 
+$lang['INPUT_EMAIL'] = "Entrez Adresse courriel";
+$lang['INPUT_PWD'] = "Entrez mot de passe";
+
+// Language
+$lang['ENGLISH'] = "Anglais";
+$lang['FRENCH'] = "Français";
+
+// Sign Up
+$lang['SIGN_UP'] = "S'inscrire";
+$lang['FIRST_NAME'] = "Prénom";
+$lang['LAST_NAME'] = "Nom de famille";
+$lang['CONFIRM_PWD'] = "Confirmer le mot de passe";
+$lang['SUBMIT'] = "Envoyer";
+
+// Posts
+$lang['AGREE'] = "D'accord";
+$lang['ADD_COMMENT'] = "Ajouter un commentaire";
+$lang['POST'] = "Publier";
+?>
